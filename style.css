@@ -1,0 +1,14 @@
+#puzzle {
+    width: 360px;
+    height: 360px; 
+}
+
+
+
+#puzzle input {
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+    border-spacing: 0;
+    border: 1px black solid;
+}
